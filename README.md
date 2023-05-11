@@ -86,6 +86,23 @@ Shaleen Dubey
 </td>
 
 <td>
+ 
+<td>
+ 
+Pranjal Pandey
 
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/96012516?v=4"  height="120" alt="Pranjal Pandey">
+</p>
+<p align="center">
+<a href = "https://github.com/pptryhard15"><img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/pranjal-pandey-0b211720a/">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
+ 
   </tr>
   </table>
