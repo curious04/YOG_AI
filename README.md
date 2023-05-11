@@ -82,35 +82,6 @@ Srinivas T B
 </a>
 </p>
 </td>
-  
-  <td>
 
-SRIHARI S
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/62781914?v=4"  height="120" alt="SRIHARI S">
-</p>
-<p align="center">
-<a href = "https://github.com/SSHSRN"><img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/sshsrn/">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-
-Rishi Pratap
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/72687585?v=4"  height="120" alt="Rishi Pratap">
-</p>
-<p align="center">
-<a href = "https://github.com/RishiPratap"><img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/rishi-pratap-8259621b6/">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="36" height="36"/>
-</a>
-</p>
-</td>
   </tr>
   </table>
