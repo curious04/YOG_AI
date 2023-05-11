@@ -70,18 +70,6 @@ Hrithik Singh
 
 <td>
 
-Srinivas T B
-
-<p align="center">
-<img src = "https://media-exp1.licdn.com/dms/image/C5103AQHXy5GJCsmLLw/profile-displayphoto-shrink_400_400/0/1586453950743?e=1668038400&v=beta&t=4gQlcpTO5AkDp4s9czUVAU5fSMFZH2jH9xkHaYPyjZQ"  height="120" alt="Srinivas T B">
-</p>
-<p align="center">
-<a href = "https://github.com/notahuman-1-0"><img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/srinivas-t-b-33076618b/">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="36" height="36"/>
-</a>
-</p>
-</td>
 
   </tr>
   </table>
