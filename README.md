@@ -69,7 +69,23 @@ Hrithik Singh
 </td>
 
 <td>
+ 
+<td>
 
+Shaleen Dubey
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/96012516?v=4"  height="120" alt=“Shaleen Dubey”>
+</p>
+<p align="center">
+<a href = "https://github.com/ShaleenDubey"><img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/shaleen-dubey/">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
 
   </tr>
   </table>
